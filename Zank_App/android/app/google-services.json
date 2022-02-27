@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "457740381978",
+    "project_id": "icarus-intuition",
+    "storage_bucket": "icarus-intuition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457740381978:android:4b18b48827d2a9402f86a3",
+        "android_client_info": {
+          "package_name": "com.example.suro2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457740381978-hgfof59q51gqdfmac8t3qmoiumbqlhdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0xmwJmWd4Go_toq1sWyarrnTqyBmFklU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457740381978-hgfof59q51gqdfmac8t3qmoiumbqlhdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457740381978-3ttvuh6c6tpsse7nvns79g3smlfu743e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.suro2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
