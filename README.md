@@ -12,3 +12,9 @@ Please install the following dependencies to run the solution:
 6. Node.js
 
 Both projects are part of one solution - making banking virtual.
+
+Project built by
+Akshith (Flutter Development)
+Avdhesh (Blockchain Development)
+Vardhan (Pitch Deck)
+Tman (Presentation and Non-tech)
