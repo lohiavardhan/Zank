@@ -13,8 +13,4 @@ Please install the following dependencies to run the solution:
 
 Both projects are part of one solution - making banking virtual.
 
-Project built by
-Akshith (Flutter Development)
-Avdhesh (Blockchain Development)
-Vardhan (Pitch Deck)
-Tman (Presentation and Non-tech)
+Project built by Akshith (Flutter Development), Avdhesh (Blockchain Development), Vardhan (Pitch Deck), Tman (Presentation and Non-tech)
